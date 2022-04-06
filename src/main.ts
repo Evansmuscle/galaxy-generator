@@ -257,10 +257,10 @@ renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
 // Animations
 
-const clock = new THREE.Clock();
+// const clock = new THREE.Clock();
 
 const tick = () => {
-  const elapsedTime = clock.getElapsedTime();
+  // const elapsedTime = clock.getElapsedTime();
 
   // Update Camera Via Orbit Controls
 
